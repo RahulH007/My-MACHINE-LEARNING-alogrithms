@@ -3,5 +3,6 @@ This repository has all the MACHINE-LEARNING ALGORITHMS in their simplest form a
 
 For better understanding follow the order as :-
   1.Simple_Linear_Regression
+  
   2.Multiple_Linear_Regression
   
